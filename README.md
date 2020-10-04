@@ -1,6 +1,15 @@
-I realized I had a problem with the speed that I code. Furthermore, I always have a bunch of small projects which I wanted to quickly get done. Therefore I came up with the idea to get them done within only 15 minutes, so I can get other things done in a timely manner.
+# Why 15 Minute Challenges?
+I see a lot of problems with the way I code, such as:
+- Not motivated enough
+- I Code too Slowly
+- I tend to try making my code perfect even though that isn't the goal
 
-Form habits, make sure I remember what I learn
+Therefore I came up with the idea to get them done within only 15 minutes, to simulate being in an actual exam environment.
+
+Some goals I hope to achieve with this:
+- Finish a bunch of ideas I had in my mind
+- Form good habits
+- Reinforce what I learn
 
 # First 15 Minute Challenge
 Find out the most common words which I say in my Whatsapp Group Chat
