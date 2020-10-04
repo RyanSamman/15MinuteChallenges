@@ -14,7 +14,8 @@ Some goals I hope to achieve with this:
 # First 15 Minute Challenge
 Find out the most common words which I say in my Whatsapp Group Chat
 
-## Goals:
+## Goals: 
+✅ Completed All Goals
 - Obtain all of my text from the group chat
 - Remove unwanted text
 - Visualize the Text and Place it in this file
@@ -28,7 +29,8 @@ Find out the most common words which I say in my Whatsapp Group Chat
 
 # Second 15 Minute Challenge
 
-## Goals:
+## Goals: 
+✅ Completed Main Goals
 - Create functions using Assembly
 - Print results using C++
 - AND Function
@@ -36,9 +38,11 @@ Find out the most common words which I say in my Whatsapp Group Chat
 - NOT Function
 - XOR Function
 - Display the differences
+  
+❌ Failed Bonus Goals
 - Bonus:
 - Shift Logical Left & Right
 - Rotate shift Left & Right
 
 ## Result 2:
-To be Done
+![Boolean Logic](./Challenge%202%20-%20Assembly%20and%20C++%20Logical%20Operations/BooleanLogic.png)
