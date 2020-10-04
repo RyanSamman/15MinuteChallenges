@@ -23,14 +23,31 @@ Find out the most common words which I say in my Whatsapp Group Chat
 - Bonus: Add flexibility between people
 
 ## Result 1:
-[Youtube Video Link Proof](https://www.youtube.com/watch?v=9_9iTPBATgM)
+[Video Proof](https://www.youtube.com/watch?v=9_9iTPBATgM)
 
 
 ![My Word Cloud](./Challenge%201%20-%20Visualize%20my%20Chat%20Messages/MyWordCloud.png)
 
 # Second 15 Minute Challenge
 
-Boolean Logic With Assembly & Display Output with C++
+Standard Bit Manipulation - With a Twist.
+
+A sane person would perform bit manipulation with Bitwise Operators:
+```py
+# Logical AND
+0b0011 & 0b0101 # 0b0001 
+
+# Logical OR
+0b0011 & 0b0101 # 0b0111
+
+# Logical XOR
+0b0011 ^ 0b0101 # 0b0110
+
+# Logical NOT
+0b0011 ^ 0b1111 # 0b1100 (Simulated via XOR)
+``` 
+
+However, It seems I wasn't quite sane when I thought of this challenge. I decided to use x64 Assembly to perform the bit operations, and display the result using C++
 
 ## Goals: 
 ✅ Completed Main Goals
@@ -47,7 +64,9 @@ Boolean Logic With Assembly & Display Output with C++
 - Shift Logical Left & Right
 - Rotate shift Left & Right
 
+Apparently speaking while programming is very hard. I overestimated how much I could get done in 15 minutes while explaining what I was doing, and wasn't able to achieve the bonus goal.
+
 ## Result 2:
-[Youtube Video Link Proof](https://www.youtube.com/watch?v=9_9iTPBATgM)
+[Video Proof](https://www.youtube.com/watch?v=9_9iTPBATgM)
 
 ![Boolean Logic](./Challenge%202%20-%20Assembly%20and%20C++%20Logical%20Operations/BooleanLogic.png)
