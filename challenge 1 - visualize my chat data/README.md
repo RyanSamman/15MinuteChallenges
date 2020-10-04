@@ -14,3 +14,19 @@ Find out the most common words which I say in my Whatsapp Group Chat
 ## Result 1:
 ![My Word Cloud](./MyWordCloud.png)
 
+# Second 15 Minute Challenge
+
+## Goals:
+- Create functions using Assembly
+- Print results using C++
+- AND Function
+- OR Function
+- NOT Function
+- XOR Function
+- Display the differences
+- Bonus:
+- Shift Logical Left & Right
+- Rotate shift Left & Right
+
+## Result 2:
+To be Done
