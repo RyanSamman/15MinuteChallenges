@@ -13,7 +13,10 @@ Some goals I hope to achieve with this:
 - Form Good Habits
 
 # First 15 Minute Challenge
-Find out the most common words which I say in my Whatsapp Group Chat
+I always wondered if I had any patterns in the messages I send on WhatsApp. After visualizing the the most common words mentioned in my messages, I realize the answer is yes.
+
+### Note:
+You can export your WhatsApp chat and download it as a text file, and that is what I did before starting this challenge.
 
 ## Goals: 
 ✅ Completed All Goals
@@ -67,6 +70,10 @@ However, It seems I wasn't quite sane when I thought of this challenge. I decide
 Apparently speaking while programming is very hard. I overestimated how much I could get done in 15 minutes while explaining what I was doing, and wasn't able to achieve the bonus goal.
 
 ## Result 2:
-[Video Proof](https://www.youtube.com/watch?v=9_9iTPBATgM)
+[Video Proof](https://www.youtube.com/watch?v=8tzyY34k-Z0)
 
 ![Boolean Logic](./Challenge%202%20-%20Assembly%20and%20C++%20Logical%20Operations/BooleanLogic.png)
+
+# Potential Future Challenges?
+- Create a Game in 15 minutes
+- Create a Website in 15 minutes
