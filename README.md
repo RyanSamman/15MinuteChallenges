@@ -22,12 +22,14 @@ Find out the most common words which I say in my Whatsapp Group Chat
 - Bonus: Add flexibility between people
 
 ## Result 1:
-[Youtube Video Link](https://www.youtube.com/watch?v=9_9iTPBATgM)
+[Youtube Video Link Proof](https://www.youtube.com/watch?v=9_9iTPBATgM)
 
 
 ![My Word Cloud](./Challenge%201%20-%20Visualize%20my%20Chat%20Messages/MyWordCloud.png)
 
 # Second 15 Minute Challenge
+
+Boolean Logic With Assembly & Display Output with C++
 
 ## Goals: 
 ✅ Completed Main Goals
@@ -45,4 +47,6 @@ Find out the most common words which I say in my Whatsapp Group Chat
 - Rotate shift Left & Right
 
 ## Result 2:
+[Youtube Video Link Proof](https://www.youtube.com/watch?v=9_9iTPBATgM)
+
 ![Boolean Logic](./Challenge%202%20-%20Assembly%20and%20C++%20Logical%20Operations/BooleanLogic.png)
