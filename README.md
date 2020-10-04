@@ -21,7 +21,9 @@ Find out the most common words which I say in my Whatsapp Group Chat
 - Bonus: Add flexibility between people
 
 ## Result 1:
-![My Word Cloud](./MyWordCloud.png)
+![My Word Cloud](./Challenge%201%20-%20Visualize%20my%20Chat%20Messages/MyWordCloud.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_9iTPBATgM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second 15 Minute Challenge
 
