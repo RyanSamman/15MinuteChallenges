@@ -1,15 +1,16 @@
 # Why 15 Minute Challenges?
 I see a lot of problems with the way I code, such as:
-- Not motivated enough
-- I Code too Slowly
-- I tend to try making my code perfect even though that isn't the goal
+- I'm usually not motivated enough to finish what I start
+- I code too slowly
+- I get distracted easily
+- I tend to try making my code perfect, even though that isn't the goal
 
-Therefore I came up with the idea to get them done within only 15 minutes, to simulate being in an actual exam environment.
+Therefore I came up with the idea to code up one idea within only 15 minutes, no matter what the end result is.
 
 Some goals I hope to achieve with this:
 - Finish a bunch of ideas I had in my mind
-- Form good habits
-- Reinforce what I learn
+- Reinforce what I learn on my spare time
+- Form Good Habits
 
 # First 15 Minute Challenge
 Find out the most common words which I say in my Whatsapp Group Chat
